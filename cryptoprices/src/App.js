@@ -1,5 +1,6 @@
 import './App.css';
 //IMPORT ROUTE AND COMPONENTS
+//A component that renders the next match in a set of matches
 import { Outlet } from "react-router"
 
 function App() {
